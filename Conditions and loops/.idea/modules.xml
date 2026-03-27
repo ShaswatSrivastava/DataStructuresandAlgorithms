@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysCode/ArraysCode.iml" filepath="$PROJECT_DIR$/ArraysCode/ArraysCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise Operators and Number System/Bitwise Operators and Number System.iml" filepath="$PROJECT_DIR$/Bitwise Operators and Number System/Bitwise Operators and Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code/Code.iml" filepath="$PROJECT_DIR$/Code/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeForcesChallenge/CodeForcesChallenge.iml" filepath="$PROJECT_DIR$/CodeForcesChallenge/CodeForcesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces Challenge/Codeforces Challenge.iml" filepath="$PROJECT_DIR$/Codeforces Challenge/Codeforces Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Conditions and loops.iml" filepath="$PROJECT_DIR$/.idea/Conditions and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/CyclicSort/CyclicSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingMethods/SortingMethods.iml" filepath="$PROJECT_DIR$/SortingMethods/SortingMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+    </modules>
+  </component>
+</project>
